@@ -1,8 +1,14 @@
-## Hi 👋, I'm America Fitch
+<div align="center">
+
+# Hi 👋, I'm America Fitch
+
+</div>
+
 
  ## 🌟 About me:
 
  I am a junior-level transfer student from Inver Hills Community College at the University of St. thomas, passionate about learning how software systems work and applying code to real-world problems.
+
 
 ## 🚀 What I'm up to:
 
