@@ -1,19 +1,27 @@
 ## Hi 👋, I'm America Fitch
 
-🎓 Computer Sciecne student at the Universriy of St. Thomas (class of 2027)
+ ## 🌟 About me:
 
-💻 Interested
-<!--
-**AmericaFitch/AmericaFitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a junior-level transfer student from Inver Hills Community College at the University of St. thomas, passionate about learning how software systems work and applying code to real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm up to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm stregnthening my Python and Java fundamentals through coursework and practice. I'm learning JavaScript so I start building more interactive projects, and I try to LeetCode once a day to sharpen my problem solving skills.
+I also enjoy working on personal projects alongside school work.
+
+## What I'm interested in
+
+I'm interested in software engineering, Data Science, and how data-driven systems are designed and built.
+
+
+## Tech I use
+
+- Languages: Python, Java, R, SQL
+- Tools: Git, GIthub, VS Code
+- Currently learning: JavaScript
+  
+
+## Get in Touch
+[LinkedIN](https://www.linkedin.com/in/america-fitch-ab09012a0/)
+
+[Email](fitc7648@stthomas.edu)
