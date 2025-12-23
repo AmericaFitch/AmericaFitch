@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm America Fitch
 
+🎓 Computer Sciecne student at the Universriy of St. Thomas (class of 2027)
+💻 Interested
 <!--
 **AmericaFitch/AmericaFitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
