@@ -23,7 +23,7 @@ I'm interested in software engineering, Data Science, and how data-driven system
 ## 💻 Tech Stack:
 
 - Languages: Python, Java, R, SQL
-- Tools: Git, GIthub, VS Code
+- Tools: Git, GIthub, VS Code, Eclispe
 - Currently learning: JavaScript
   
 
